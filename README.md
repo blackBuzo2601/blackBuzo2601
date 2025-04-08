@@ -2,7 +2,7 @@
 
 Soy un estudiante de **Ingeniería en Sistemas Computacionales**. Siempre hay algo nuevo que aprender :)
 
-🎮 Disfruto mucho de los videojuegos. Actualmente, estoy jugando **Borderlands: The Pre-Sequel!** 🔫🔥  
+🎮 Disfruto mucho de los videojuegos. Actualmente, estoy jugando **Borderlands 3** 🔫🔥  
 
 ---
 
