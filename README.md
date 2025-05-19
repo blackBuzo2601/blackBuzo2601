@@ -22,7 +22,5 @@ Soy un estudiante de **Ingeniería en Sistemas Computacionales**. Siempre hay al
 ## 📚 Actualmente aprendiendo  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
 </p>
 
